@@ -9,7 +9,7 @@ npm install atomic_color
 ```
 
 ```js
-import { red,green,blue,yellow,cyan,magenta,white,gray,black,bgRed,bgGreen,bgBlue,BgYellow,bgCyan,bgMagenta,bgWhite,bgBlack,bold,dim,italic,underline,inverse,strikethrough,success,error,warning, info,rainbow } from 'chalk-styler';
+import { red,green,blue,yellow,cyan,magenta,white,gray,black,bgRed,bgGreen,bgBlue,BgYellow,bgCyan,bgMagenta,bgWhite,bgBlack,bold,dim,italic,underline,inverse,strikethrough,success,error,warning, info,rainbow } from 'atomic_color';
 
 success('Operation completed successfully!');
 error('An error occurred!');
