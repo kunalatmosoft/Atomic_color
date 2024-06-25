@@ -1,6 +1,6 @@
 {
   "name": "atomic_color",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -10,7 +10,7 @@
   "organization":"Atmosoft",
   "OWNER":"KUNAL_SINGH",
   "author": "Kunal Singh",
-  "license": "MIT",
+  "license": "",
   "description": "This a Brand new Color library with more easy implementation",
   "dependencies": {
     "chalk": "^5.3.0"
