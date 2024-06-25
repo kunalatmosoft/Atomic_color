@@ -1,0 +1,18 @@
+{
+  "name": "atomic_color",
+  "version": "1.1.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["chalk", "styled", "console", "colors", "styling"],
+  "organization":"Atmosoft",
+  "OWNER":"KUNAL_SINGH",
+  "author": "Kunal Singh",
+  "license": "MIT",
+  "description": "This a Brand new Color library with more easy implementation",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
